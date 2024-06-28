@@ -1,4 +1,4 @@
-# HR-Data-Analysis-2000-2015
+# HR Data Analysis 2000-2015
 Analysis of HR Data from 2000-2015 to determine key HR metrics, using MySQL and Power BI 
 
 ![FINAL_HR Data Analysis](https://github.com/JosanQui/HR-Data-Analysis-2000-2015/assets/173809528/7dfdc038-b910-4c9a-aab9-06a4bd826c5c)
